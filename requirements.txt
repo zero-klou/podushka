@@ -1,2 +1,2 @@
 aiogram==2.11.2
-Python==3.8.5
+Python==3.6.13
